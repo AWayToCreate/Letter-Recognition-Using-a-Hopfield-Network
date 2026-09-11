@@ -57,6 +57,16 @@ For each noise level, the program analyzes:
 
 The results are visualized using **Matplotlib**, making it possible to observe how noise affects the network's ability to retrieve stored patterns.
 
+## Results
+
+**graphic of the evolution of the energy and the similarity for a letter and a noise associated**
+<img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/f75519aa-263d-4c02-b529-655aaa958fb3" />
+
+**example of a letter being recognised by the neural network**
+<img width="567" height="838" alt="image" src="https://github.com/user-attachments/assets/4947c502-1afb-4cf8-bf1f-6984742f4ae3" />
+
+
+
 ## Project Structure
 
 ```text
