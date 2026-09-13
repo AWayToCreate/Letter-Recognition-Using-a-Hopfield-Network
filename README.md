@@ -100,3 +100,4 @@ pip install -r requirements.txt
 ## Purpose
 
 This project provides a practical implementation of **associative memory using Hopfield neural networks** and demonstrates their ability to recover stored patterns from noisy inputs.
+This repository is provided for learning, experimentation, and testing purposes. You are welcome to study and use the code to learn, but you may not copy it, claim it as your own, present it as your own work, or redistribute it without permission.
